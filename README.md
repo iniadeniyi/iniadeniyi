@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iDeniyi
-- 👀 I’m interested in Robotics and AI
-- 🌱 I’m currently learning Data Science with Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Software Development and Systems Engineering
+- 🌱 I’m currently learning Rust! 🦀
+- 💞️ I’m looking to collaborate on any cool projects
+- 📫 Reach out to me @adeniyipraiseini@gmail.com
 
 <!---
 iDeniyi/iDeniyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
