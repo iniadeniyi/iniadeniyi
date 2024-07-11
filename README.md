@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Inioluwa Adeniyi</h1>
-<h3 align="center">Software Engineer | BSc Computer Engineering, UofA '24 | Involve me, I want to learn!</h3>
+<h3 align="center">Software Engineer | Involve me, I want to learn!</h3>
 
 - 🔭 I’m currently working on [Cloud of Worshippers](https://www.worshipcloud.favourfelix.com/)
 - 🌱 I’m currently learning **React-Native**
